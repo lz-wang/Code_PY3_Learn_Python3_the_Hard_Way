@@ -8,7 +8,7 @@ print(f"Here's your file {filename}:")
 print(txt.read()) # read and print the file
 
 print("Type the filename again:")
-file_again = input("> ")
+file_again = input("> ") # read another file
 
 txt_again = open(file_again)
 
