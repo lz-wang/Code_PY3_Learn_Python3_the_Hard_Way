@@ -34,7 +34,7 @@ def print_first_and_last_sorted(sentence):
 	print_first_word(words)
 	print_last_word(words)
 
-# ---------------C O M M A N DS------------------------------
+# ---------------C O M M A N D S------------------------------
 # import ex25
 # sentence = "All good thins come to those who wait."
 # words = ex25.break_words(sentence)
